@@ -3,5 +3,6 @@
 */
 
 .ImageContainer img {
+    zoom:60% ;
     border: solid 2px #999;
 }
